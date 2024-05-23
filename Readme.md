@@ -10,5 +10,5 @@
 | 4 | 2024年5月2日 | 復習B | https://github.com/keita-n-ac/Seminar3/blob/main/chapter2.ipynb | 
 | 5 | 2024年5月9日 | 復習B | https://github.com/keita-n-ac/Seminar3/blob/main/chapter2.ipynb | 
 | 6 | 2024年5月16日 | 復習B2 | https://github.com/keita-n-ac/Seminar3/blob/main/chapter2-b.ipynb | 
-| 7 | 2024年5月23日 | データ分析 | |
-| 8 | 2024年5月23日 | データ分析 | |
+| 7 | 2024年5月23日 | データ分析1 | https://github.com/keita-n-ac/Seminar3/blob/main/da1.ipynb |
+| 8 | 2024年5月23日 | データ分析2 | |
