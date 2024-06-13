@@ -13,3 +13,4 @@
 | 7 | 2024年5月23日 | データ分析1 | https://github.com/keita-n-ac/Seminar3/blob/main/da1.ipynb |
 | 8 | 2024年5月30日 | データ分析2 | https://github.com/keita-n-ac/Seminar3/blob/main/da2.ipynb |
 | 9 | 2024年6月6日 | データ分析3 | https://github.com/keita-n-ac/Seminar3/blob/main/da3.ipynb |
+| 10 | 2024年6月13日 | データ分析4 | https://github.com/keita-n-ac/Seminar3/blob/main/da4.ipynb |
