@@ -14,5 +14,5 @@
 | 8 | 2026年6月4日 | データ分析2 | https://github.com/keita-n-ac/Seminar3/blob/main/da2.ipynb |
 | 9 | 2026年6月11日 | データ分析3 | https://github.com/keita-n-ac/Seminar3/blob/main/da3.ipynb |
 | 10 | 2026年6月18日 | データ分析4 | https://github.com/keita-n-ac/Seminar3/blob/main/da4.ipynb |
-| 11 | 2026年6月25日 | 練習問題1 | https://github.com/keita-n-ac/Seminar3/blob/main/pre1.ipynb |
-| 12 | 2026年7月2日 | 練習問題2 | https://github.com/keita-n-ac/Seminar3/blob/main/pre2.ipynb |
+| 11 | 2026年6月25日 | 練習問題1 | https://github.com/keita-n-ac/Seminar3/blob/main/pre1.md |
+| 12 | 2026年7月2日 | 練習問題2 | https://github.com/keita-n-ac/Seminar3/blob/main/pre2.md |
