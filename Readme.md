@@ -10,7 +10,9 @@
 | 4 | 2026年5月7日 | 復習B | https://github.com/keita-n-ac/Seminar3/blob/main/chapter2.ipynb | 
 | 5 | 2026年5月14日 | 復習B2 | https://github.com/keita-n-ac/Seminar3/blob/main/chapter2-b.ipynb | 
 | 6 | 2026年5月21日 | 復習B2 | https://github.com/keita-n-ac/Seminar3/blob/main/chapter2-b.ipynb | 
-| 7 |  | データ分析1 | https://github.com/keita-n-ac/Seminar3/blob/main/da1.ipynb |
-| 8 |  | データ分析2 | https://github.com/keita-n-ac/Seminar3/blob/main/da2.ipynb |
-| 9 |  | データ分析3 | https://github.com/keita-n-ac/Seminar3/blob/main/da3.ipynb |
-| 10 |  | データ分析4 | https://github.com/keita-n-ac/Seminar3/blob/main/da4.ipynb |
+| 7 | 2026年5月28日 | データ分析1 | https://github.com/keita-n-ac/Seminar3/blob/main/da1.ipynb |
+| 8 | 2026年6月4日 | データ分析2 | https://github.com/keita-n-ac/Seminar3/blob/main/da2.ipynb |
+| 9 | 2026年6月11日 | データ分析3 | https://github.com/keita-n-ac/Seminar3/blob/main/da3.ipynb |
+| 10 | 2026年6月18日 | データ分析4 | https://github.com/keita-n-ac/Seminar3/blob/main/da4.ipynb |
+| 11 | 2026年6月25日 | 練習問題1 | https://github.com/keita-n-ac/Seminar3/blob/main/pre1.ipynb |
+| 12 | 2026年7月2日 | 練習問題2 | https://github.com/keita-n-ac/Seminar3/blob/main/pre2.ipynb |
