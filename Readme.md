@@ -18,3 +18,4 @@
 | 12 | 2026年7月2日 | 練習問題2 | https://github.com/keita-n-ac/Seminar3/blob/main/pre2.md |
 | 13 | 2026年7月9日 | 練習問題3 | https://github.com/keita-n-ac/Seminar3/blob/main/pre3.md |
 | 14 | 2026年7月16日 | 練習問題4 | https://github.com/keita-n-ac/Seminar3/blob/main/pre4.md |
+| 15 | 2026年7月23日 | 練習問題5 | https://github.com/keita-n-ac/Seminar3/blob/main/pre5.md |
